@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 import Controller.ProductNController;
+import Utils.Utils;
 import View.GeneralView;
 import Controller.ProductPController;
 import View.PhoneView;
@@ -54,9 +55,12 @@ public class Main {
                     System.out.println("Notebooks:");
                     productNController.list();
                     break;
-                /**case "listByPrice:":
+                case "listByPriceP":
                     productPController.listByPrice();
-                    break; **/
+                    break;
+                case "listByPriceN":
+                    productNController.listByPrice();
+                    break;
             }
         }
     }

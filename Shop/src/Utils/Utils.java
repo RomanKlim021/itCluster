@@ -10,15 +10,15 @@ public class Utils {
 
         ProductPhone[] productPhones = {
                 new ProductPhone("Xiaomi Mi 9 SE", "Phone", "Xiaomi", 8000),
-            new ProductPhone("Xiaomi Redmi Note 7", "Phone", "Xiaomi", 4400),
-                    new ProductPhone("Samsung Galaxy S10e", "Phone", "Samsung", 15000),
-                    new ProductPhone("Samsung Galaxy A50", "Phone", "Samsung", 6800),
-                    new ProductPhone("Xiaomi Redmi 7a", "Phone", "Xiaomi", 2700),
-                    new ProductPhone("Samsung Galaxy M20", "Phone", "Samsung", 5500),
-                    new ProductPhone("Huawei P Smart Z Mi 9 SE", "Phone", "Huawei", 6000),
-                    new ProductPhone("Google Pixel 3a", "Phone", "Google", 12000),
-                    new ProductPhone("Huawei P30 Pro", "Phone", "Huawei", 22000),
-                    new ProductPhone("Apple iPhone XR", "Phone", "Apple", 18000)
+                new ProductPhone("Xiaomi Redmi Note 7", "Phone", "Xiaomi", 4400),
+                new ProductPhone("Samsung Galaxy S10e", "Phone", "Samsung", 15000),
+                new ProductPhone("Samsung Galaxy A50", "Phone", "Samsung", 6800),
+                new ProductPhone("Xiaomi Redmi 7a", "Phone", "Xiaomi", 2700),
+                new ProductPhone("Samsung Galaxy M20", "Phone", "Samsung", 5500),
+                new ProductPhone("Huawei P Smart Z Mi 9 SE", "Phone", "Huawei", 6000),
+                new ProductPhone("Google Pixel 3a", "Phone", "Google", 12000),
+                new ProductPhone("Huawei P30 Pro", "Phone", "Huawei", 22000),
+                new ProductPhone("Apple iPhone XR", "Phone", "Apple", 18000)
         };
         return productPhones;
     }

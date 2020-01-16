@@ -77,8 +77,9 @@ public class ProductPhone implements Comparable<ProductPhone>  {
     public int hashCode() {
         return Objects.hash(name, type, company, price);
     }
+
     @Override
     public int compareTo(ProductPhone o) {
-        return this.price - o.price;
+        return Integer.compare(this.price, o.price);
     }
 }

@@ -15,12 +15,13 @@ public class ProductPController {
     }
 
     public String[] getCommands() {
-        String[] commands = {"listPhone", "listByPrice"};
+        String[] commands = {"listPhone", "listByPriceP"};
         return commands;
     }
-   /** public void listByPrice(String[] args){
+    public void listByPrice(){
         ProductPhone[] productPhones = Utils.getPhone();
         PhoneView phoneView = new PhoneView();
+        Arrays.sort(productPhones);
         phoneView.listByPriceP(productPhones);
-        } **/
+        }
     }

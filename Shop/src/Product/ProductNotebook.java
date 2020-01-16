@@ -1,9 +1,8 @@
 package Product;
 
-
 import java.util.Objects;
 
-public class ProductNotebook implements Comparable<Product.ProductNotebook> {
+public class ProductNotebook implements Comparable <ProductNotebook> {
 
         private String name;
         private String type;
@@ -80,6 +79,6 @@ public class ProductNotebook implements Comparable<Product.ProductNotebook> {
 
     @Override
         public int compareTo(ProductNotebook o) {
-            return Integer.compare(getPrice(), o.getPrice());
+        return Integer.compare(this.price, o.price);
         }
     }
