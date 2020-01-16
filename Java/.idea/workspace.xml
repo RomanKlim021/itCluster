@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4c1597-da71-4a41-a9a0-6edf313171f0" name="Default Changelist" comment="" />
+    <list default="true" id="9f4c1597-da71-4a41-a9a0-6edf313171f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/Weather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather/src/Models/Models.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Text/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W4MFRqTO96joqYDMCgag3nNHsB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,5 +69,16 @@
       <updated>1578404309217</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
