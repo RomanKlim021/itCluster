@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c019a7-8b08-4ae3-829e-870c35006e2c" name="Default Changelist" comment="" />
+    <list default="true" id="4b7f8563-ae3f-4a90-a44b-de82cc4be2d1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +11,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1WA6tsmBinge7dC5j5VGflkzZVR" />
+  <component name="ProjectId" id="1VAGVrM5n4TzmJEEFdKvt8r7eYY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project2" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +32,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Text" />
+      <module name="untitled104" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -36,22 +40,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45c019a7-8b08-4ae3-829e-870c35006e2c" name="Default Changelist" comment="" />
-      <created>1578580270189</created>
+      <changelist id="4b7f8563-ae3f-4a90-a44b-de82cc4be2d1" name="Default Changelist" comment="" />
+      <created>1576688512984</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578580270189</updated>
+      <updated>1576688512984</updated>
     </task>
     <servers />
   </component>
@@ -60,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
