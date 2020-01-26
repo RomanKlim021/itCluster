@@ -6,8 +6,6 @@ import java.util.Arrays;
 
 public class PhoneView {
 
-    private Object ProductPhone;
-
     public void listAllP(ProductPhone[] productPhones) {
         for (ProductPhone productPhone : productPhones) {
             if (productPhone == null) {
@@ -17,12 +15,11 @@ public class PhoneView {
         }
     }
 
-    /**public void listByPriceP(ProductPhone[] productPhones) {
-        Arrays.sort((byte[]) ProductPhone);
+    public void listByPriceP(ProductPhone[] productPhones) {
         for (ProductPhone productPhone : productPhones) {
                         System.out.println(productPhone);
         }
-    } **/
+    }
 
 }
 
