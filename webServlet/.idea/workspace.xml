@@ -6,7 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6baf01d6-51cb-4837-a12e-de4ee8a545fc" name="Default Changelist" comment="" />
+    <list default="true" id="6baf01d6-51cb-4837-a12e-de4ee8a545fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/webServlet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webServlet.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/webServlet.war" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -35,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WwFVMBSTAQgR0YbOUFYxWARgjg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,12 +54,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/apache-tomcat-9.0.30/lib/servlet-api.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -198,11 +211,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -221,6 +229,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580052772750</updated>
       <workItem from="1580052775623" duration="7836000" />
+      <workItem from="1580233134103" duration="590000" />
+      <workItem from="1580343727851" duration="1089000" />
     </task>
     <servers />
   </component>
@@ -236,10 +246,10 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="574" y="162" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1580059347039" />
-    <state x="473" y="194" key="FileChooserDialogImpl" timestamp="1580053000384">
+    <state x="473" y="194" key="FileChooserDialogImpl" timestamp="1580233242841">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="473" y="194" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1580053000384" />
+    <state x="473" y="194" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1580233242841" />
     <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1580061319488">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
@@ -304,9 +314,9 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state width="1024" height="210" key="GridCell.Tab.3.right/0.40.1536.824@0.40.1536.824" timestamp="1580056609566" />
-    <state x="249" y="40" key="SettingsEditor" timestamp="1580061282678">
+    <state x="249" y="40" key="SettingsEditor" timestamp="1580233248488">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="249" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1580061282678" />
+    <state x="249" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1580233248488" />
   </component>
 </project>
